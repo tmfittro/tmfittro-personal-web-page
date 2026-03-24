@@ -27,8 +27,6 @@ STANDARDS.md            — Technical and design standards
 - **Projects** — StreamFlix analysis (Random Forest, R²=0.477) and Data Mining classification project
 - **Contact** — Email, LinkedIn, GitHub links
 
-## Things Still Needed
-- Update GitHub `href="#"` with real GitHub URL once available
 
 ## Running the App
 ```
