@@ -28,10 +28,10 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: "upload"
 
-          # ✅ FIXED CONFIG
-          app_location: "/"        # root folder (where index.html is)
-          api_location: ""         # no backend
-          output_location: ""      # 🔥 THIS WAS THE ISSUE (must be empty)
+          
+          app_location: "/"     
+          api_location: ""       
+          output_location: ""      
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
