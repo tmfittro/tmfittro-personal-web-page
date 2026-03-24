@@ -28,9 +28,7 @@ STANDARDS.md            — Technical and design standards
 - **Contact** — Email, LinkedIn, GitHub links
 
 ## Things Still Needed
-- Update `mailto:your.email@example.com` in index.html with real email
-- Update LinkedIn `href="#"` with real LinkedIn URL
-- Update GitHub `href="#"` with real GitHub URL
+- Update GitHub `href="#"` with real GitHub URL once available
 
 ## Running the App
 ```
